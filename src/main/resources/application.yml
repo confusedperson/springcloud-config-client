@@ -13,7 +13,7 @@ spring:
 server:
   port: 8881
   servlet:
-    context-path: /config-client
+    context-path: /conf ig-client
 eureka:
   client:
     service-url:
